@@ -1,0 +1,37 @@
+name: saltearth
+analytics: {}
+github: true
+description: A blog by Gemma Quilliam
+author:
+  name: Gemma Quilliam
+  email: gemmaquilliamkennaugh@icloud.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.4359179460443556
+color:
+  lightness: 0.2498269093338928
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  saturation: 0.6196118364156251
+  brandStrength: 0.8470438290031264
+  rhythmicContrast: 0.0730698004069435
+content_rating:
+  adult: false
+typography_spectrum: 0.6422490836121142
+opengraph: {}
+title: Salt Earth
